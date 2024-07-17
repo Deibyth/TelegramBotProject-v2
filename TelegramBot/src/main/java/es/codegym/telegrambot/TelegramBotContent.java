@@ -4,14 +4,14 @@ public class TelegramBotContent {
     public static final String STEP_1_TEXT = """
              *¡BIENVENIDO AL NIVEL UNO!*   
              
-             Te despiertas y te das cuenta de que eres un gato. Es una buena mañana, pero ¿qué son estos extraños sentimientos? Tu estómago está rugiendo de hambre. No hay comida en el apartamento, excepto en la nevera cerrada. ¿Qué hacer?
+             Te despiertas y te das cuenta de que eres un gato. Es una buena mañana, pero ¿que son estos extraños sentimientos? Tu estomago esta rugiendo de hambre. No hay comida en el apartamento, excepto en la nevera cerrada. ¿Qué hacer?
              Tendrás que recordar cómo piratear la nevera digital. Abre el libro "Hacking Avanzado para Gatos":
              
-                 1. Completa la primera tarea y luego pasa la página.
+                 1. Completa la primera tarea y luego pasa la pagina.
                  2. Avanza y ve a lo más interesante.
                  3. Realiza acciones para ganarte el respeto de todos los gatos locales.
                  
-             *Gato doméstico común, nivel uno.*
+             *Gato domestico común, nivel uno.*
              
              ¡Hackea la nevera digital y completa la primera tarea!
              
@@ -31,7 +31,7 @@ public class TelegramBotContent {
     public static final String STEP_3_TEXT = """
             *Gato programador, nivel dos.*
             De repente, desde la esquina, apareció un robot aspiradora zumbante. ¡Es hora de vengarse!
-            Completa la segunda tarea y ¡hackéalo!
+            Completa la segunda tarea y ¡hackealo!
             """;
 
     public static final String STEP_4_TEXT = """
@@ -47,7 +47,7 @@ public class TelegramBotContent {
 
     public static final String STEP_5_TEXT = """
             *Gato Robosubyugador, nivel tres.*
-            ¡Jaja! ¡Se encontró una GoPro abandonada en el estante!
+            ¡Jaja! ¡Se encontro una GoPro abandonada en el estante!
             Completa la tercera tarea: ¡póntela y enciéndela!
             """;
 
